@@ -6,7 +6,7 @@
 
 ## Chapter One: The Adventure
 
-Firstly I logged into the game using **ssh** command and the password I got by completing the last level. Now, I needed to extract that line from data.txt that occured only once. For that I decided to use the **uniq** command with -u option as it would give only the unique line of text a an output. But there was a problem, **uniq** command only works when the duplicate lines are consecutive. so, to solve this problem, I used the **sort** command to sort the contents of the file and used the piping operator '|' to pass the output of **sort** as an input to **uniq**.
+Firstly I logged into the game using **ssh** command and the password I got by completing the last level. Now, I needed to extract that line from data.txt that occured only once. For that I decided to use the **uniq** command with -u option as it would give only the unique line of text as an output. But there was a problem, **uniq** command only works when the duplicate lines are consecutive. so, to solve this problem, I used the **sort** command to sort the contents of the file and used the piping operator '|' to pass the output of **sort** as an input to **uniq**.
 
 ## Chapter Two: Reflecting on my journey
 

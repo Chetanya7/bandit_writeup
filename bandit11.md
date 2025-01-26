@@ -2,7 +2,7 @@
 
 ## Chapter Zero: The Objective
 
-### To extract the password for the next level that is stored in the file data.txt, which contains base64 encoded data
+To extract the password for the next level that is stored in the file data.txt, which contains base64 encoded data
 
 ## Chapter One: The Adventure
 

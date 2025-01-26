@@ -2,7 +2,7 @@
 
 ## Chapter Zero: The Objective
 
-### To extract the password for the next level that is stored in the file data.txt, where all lowercase (a-z) and uppercase (A-Z) letters have been rotated by 13 positions
+To extract the password for the next level that is stored in the file data.txt, where all lowercase (a-z) and uppercase (A-Z) letters have been rotated by 13 positions
 
 ## Chapter One: The Adventure
 
